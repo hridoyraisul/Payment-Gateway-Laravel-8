@@ -7,4 +7,9 @@
 3. config.json (locate in storage\app\public\config.json)
 4. web.php (locate in routes\web.php)
 
-### command to run: " php artisan stprage:link "
+### Command to run: php artisan stprage:link 
+
+## Credentials to check:
+### Wallet Number: 01770618575
+### OTP: 123456
+### Pin: 12121
