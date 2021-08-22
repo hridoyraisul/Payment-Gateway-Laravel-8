@@ -1,4 +1,4 @@
-# BKASH PAYMENT GATEWAY with LARAVEL 8
+# BKASH PAYMENT GATEWAY INTEGRATION with LARAVEL 8
 
 ## Required files to replace
 
@@ -7,7 +7,10 @@
 3. config.json (locate in storage\app\public\config.json)
 4. web.php (locate in routes\web.php)
 
-### Command to run: php artisan stprage:link 
+### Command to run: 
+php artisan stprage:link
+php artisan tinker
+Order::factory()->count(5)->create()
 
 ## Credentials to check:
 ### Wallet Number: 01770618575
