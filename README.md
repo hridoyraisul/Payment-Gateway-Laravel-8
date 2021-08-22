@@ -1,4 +1,4 @@
-#BKASH PAYMENT GATEWAY with LARAVEL 8
+# BKASH PAYMENT GATEWAY with LARAVEL 8
 
 ## Required files to replace
 
@@ -7,4 +7,4 @@
 3. config.json (locate in storage\app\public\config.json)
 4. web.php (locate in routes\web.php)
 
-###command to run: " php artisan stprage:link "
+### command to run: " php artisan stprage:link "
